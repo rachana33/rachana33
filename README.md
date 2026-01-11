@@ -4,17 +4,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rachana33/rachana33/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rachana33/rachana33/output/pacman-contribution-graph.svg">
 </picture>
-###
+
 <h1 align="left">Hey 👋 What's up?</h1>
-###
+
 <p align="left">I'm Rachana, a Full-Stack Software Engineer from Bellevue, WA</p>
-###
+
 <h2 align="left">About me</h2>
-###
+
 <p align="left">✨ Full-stack engineer shipping AI-powered solutions at enterprise scale<br>📚 Exploring cutting-edge RAG pipelines and agentic AI workflows<br>🎯 Goals: Build production ML systems that matter<br>🎲 Fun fact: Transitioned from securing networks to building intelligent systems—same mission, bigger impact</p>
-###
+
 <h2 align="left">I code with</h2>
-###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -48,14 +48,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-###
+
 <div align="left">
   <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rachana33.rachana33&right_color=chocolate"  />
 </div>
-###
+
