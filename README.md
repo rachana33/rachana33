@@ -12,7 +12,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-🎓 I hold an MS in Computer Science from Purdue University and an MTech in Software Engineering from VIT. Currently, I'm contracting at T-Mobile building cybersecurity automation platforms, and before this, I shipped AI-powered solutions at Accenture and worked on connected vehicle diagnostics at Aptiv.<br><br>
+🎓 I hold an MS in Computer Science from Purdue University and an MTech in Software Engineering from VIT. Currently, I'm working at T-Mobile building cybersecurity automation platforms, and before this, I shipped AI-powered solutions at Accenture and worked on connected vehicle diagnostics at Aptiv.<br><br>
 
 🚀 I'm a constant striver for perfectionism and absolutely love exploring new tech—whether it's diving deep into RAG systems and LangChain, tinkering with robotics, or geeking out about self-driving cars, I'm always curious about what's next. I firmly believe that growth starts outside your comfort zone, so I'm always open to new opportunities and experiences that push me forward.<br><br>
 
