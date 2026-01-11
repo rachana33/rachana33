@@ -7,11 +7,17 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">I'm Rachana, a Full-Stack Software Engineer from Bellevue, WA</p>
+<p align="left">I'm Rachana, a Full-Stack Software Engineer currently contracting at T-Mobile in Bellevue, WA</p>
 
 <h2 align="left">About me</h2>
 
-<p align="left">✨ Full-stack engineer shipping AI-powered solutions at enterprise scale<br>📚 Exploring cutting-edge RAG pipelines and agentic AI workflows<br>🎯 Goals: Build production ML systems that matter<br>🎲 Fun fact: Transitioned from securing networks to building intelligent systems—same mission, bigger impact</p>
+<p align="left">
+🎓 MS in Computer Science from Purdue University | MTech in Software Engineering from VIT<br><br>
+💼 Currently building cybersecurity automation platforms at T-Mobile, previously shipped AI-powered solutions at Accenture and connected vehicle diagnostics at Aptiv<br><br>
+🚀 I love exploring new tech—lately I've been deep diving into RAG systems, LangChain, and building agentic AI workflows<br><br>
+⚡ In my free time, I'm constantly working on side projects (check them out below!) because building stuff is just too much fun<br><br>
+🎯 Big believer in learning by doing—whether it's spinning up a new AI experiment or debugging production issues at 2 AM
+</p>
 
 <h2 align="left">Featured Projects</h2>
 
@@ -60,15 +66,17 @@
 <h2 align="left">Connect with me</h2>
 
 <div align="left">
-  <a href="linkedin.com/in/rachanan33" target="_blank">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img width="12" />
-  <a href="mailto:nrachana2506@gmail.com" target="_blank">
+  <a href="mailto:YOUR_EMAIL" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <img width="12" />
-
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/globe/default.svg" width="52" height="40" alt="portfolio logo"  />
+  </a>
 </div>
 
 <br clear="both">
