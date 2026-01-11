@@ -1,10 +1,3 @@
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rachana33/rachana33/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rachana33/rachana33/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rachana33/rachana33/output/pacman-contribution-graph.svg">
-</picture>
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">I'm Rachana, a Full-Stack Software Engineer currently contracting at T-Mobile in Bellevue, WA</p>
