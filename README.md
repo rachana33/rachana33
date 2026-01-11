@@ -12,11 +12,13 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-🎓 MS in Computer Science from Purdue University | MTech in Software Engineering from VIT<br><br>
-💼 Currently building cybersecurity automation platforms at T-Mobile, previously shipped AI-powered solutions at Accenture and connected vehicle diagnostics at Aptiv<br><br>
-🚀 I love exploring new tech—lately I've been deep diving into RAG systems, LangChain, and building agentic AI workflows<br><br>
-⚡ In my free time, I'm constantly working on side projects (check them out below!) because building stuff is just too much fun<br><br>
-🎯 Big believer in learning by doing—whether it's spinning up a new AI experiment or debugging production issues at 2 AM
+🎓 I hold an MS in Computer Science from Purdue University and an MTech in Software Engineering from VIT. Currently, I'm contracting at T-Mobile building cybersecurity automation platforms, and before this, I shipped AI-powered solutions at Accenture and worked on connected vehicle diagnostics at Aptiv.<br><br>
+
+🚀 I'm a constant striver for perfectionism and absolutely love exploring new tech—whether it's diving deep into RAG systems and LangChain, tinkering with robotics, or geeking out about self-driving cars, I'm always curious about what's next. I firmly believe that growth starts outside your comfort zone, so I'm always open to new opportunities and experiences that push me forward.<br><br>
+
+🐾 On a free weekend, you'd probably find me cuddled up on the couch with my game controller, surrounded by cats or dogs (I love them both equally!). When I'm not coding or gaming, I love meeting new people and talking about anything and everything—tech, random ideas, life, or that new game I'm currently obsessed with.<br><br>
+
+🏔️ I'm definitely a mountain person with a city view—best of both worlds! And honestly, I never stop learning or building side projects because creating stuff is just too much fun.
 </p>
 
 <h2 align="left">Featured Projects</h2>
@@ -66,17 +68,15 @@
 <h2 align="left">Connect with me</h2>
 
 <div align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="linkedin.com/in/rachanan2506" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img width="12" />
-  <a href="mailto:YOUR_EMAIL" target="_blank">
+  <a href="mailto:nrachana2506@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <img width="12" />
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/globe/default.svg" width="52" height="40" alt="portfolio logo"  />
-  </a>
+
 </div>
 
 <br clear="both">
