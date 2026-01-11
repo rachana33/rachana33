@@ -13,6 +13,14 @@
 
 <p align="left">✨ Full-stack engineer shipping AI-powered solutions at enterprise scale<br>📚 Exploring cutting-edge RAG pipelines and agentic AI workflows<br>🎯 Goals: Build production ML systems that matter<br>🎲 Fun fact: Transitioned from securing networks to building intelligent systems—same mission, bigger impact</p>
 
+<h2 align="left">Featured Projects</h2>
+
+<p align="left">
+🔍 <a href="https://logstream-three.vercel.app/" target="_blank"><strong>LogStream</strong></a> - Enterprise log analysis platform with AI-powered insights for real-time monitoring and anomaly detection<br><br>
+🚗 <a href="https://vehicleai-ft.onrender.com" target="_blank"><strong>VehicleIQ AI</strong></a> - Intelligent fleet management system with predictive diagnostics and maintenance analytics<br><br>
+💰 <a href="https://budget-coach-ft.onrender.com" target="_blank"><strong>Budget Coach</strong></a> - AI-driven personal finance tracker with smart recommendations and spending insights
+</p>
+
 <h2 align="left">I code with</h2>
 
 <div align="left">
@@ -49,13 +57,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+<h2 align="left">Connect with me</h2>
+
 <div align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="linkedin.com/in/rachanan33" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <img width="12" />
+  <a href="mailto:nrachana2506@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <img width="12" />
+
 </div>
+
+<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rachana33.rachana33&right_color=chocolate"  />
 </div>
-
